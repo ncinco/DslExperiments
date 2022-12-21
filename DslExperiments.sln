@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DslExperiments.Domain", "DslExperiments.Domain\DslExperiments.Domain.csproj", "{543054A2-3453-443C-AD71-CC6E854D10A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DslExperiment.Infrastructure", "DslExperiment.Infrastructure\DslExperiment.Infrastructure.csproj", "{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{543054A2-3453-443C-AD71-CC6E854D10A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{543054A2-3453-443C-AD71-CC6E854D10A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{543054A2-3453-443C-AD71-CC6E854D10A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
