@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DslExperiments.Domain", "Ds
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DslExperiment.Infrastructure", "DslExperiment.Infrastructure\DslExperiment.Infrastructure.csproj", "{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DslExperiment.Kafka.Consumers", "DslExperiment.Kafka.Consumers\DslExperiment.Kafka.Consumers.csproj", "{987E948C-B67C-4833-B357-DDEBBECE7529}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F5BBF72-C2B5-424B-BFD0-70FC061917EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{987E948C-B67C-4833-B357-DDEBBECE7529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987E948C-B67C-4833-B357-DDEBBECE7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987E948C-B67C-4833-B357-DDEBBECE7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987E948C-B67C-4833-B357-DDEBBECE7529}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
