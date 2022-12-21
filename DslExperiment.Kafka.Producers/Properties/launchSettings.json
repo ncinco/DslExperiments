@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "DslExperiment.Kafka.Producers": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7246"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 31430,
+      "useSSL": false
+    }
+  }
+}
